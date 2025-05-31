@@ -44,9 +44,9 @@ Install the following dependencies:
    git clone https://github.com/yourusername/customer-churn-prediction.git
 
 ##👤 Creator Details
-Name: Galaxy Rawat
-Email: gvpg223@gmail.com
-GitHub: https://github.com/Galaxicitti
-LinkedIn: https://linkedin.com/in/galaxy-rawat
+-Name: Galaxy Rawat
+-Email: gvpg223@gmail.com
+-GitHub: https://github.com/Galaxicitti
+-LinkedIn: https://linkedin.com/in/galaxy-rawat
 
 
