@@ -34,9 +34,8 @@ The following models were implemented and compared:
 ## 🛠️ Requirements
 
 Install the following dependencies:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+    
+    pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
 ## 🚀 How to Access
 
@@ -45,9 +44,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
    git clone https://github.com/yourusername/customer-churn-prediction.git
 
 ##👤 Creator Details
-Name: Your Name
-Email: your.email@example.com
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
+Name: Galaxy Rawat
+Email: gvpg223@gmail.com
+GitHub: https://github.com/Galaxicitti
+LinkedIn: https://linkedin.com/in/galaxy-rawat
 
 
