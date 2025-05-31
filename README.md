@@ -35,7 +35,7 @@ The following models were implemented and compared:
 
 Install the following dependencies:
     
-    pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+       pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
 ## 🚀 How to Access
 
