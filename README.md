@@ -43,11 +43,11 @@ Install the following dependencies:
    ```bash
    git clone https://github.com/yourusername/customer-churn-prediction.git
 
-## 👤 Creator Details
+## 🧑‍💻 Author
+Created by Galaxy Rawat.
 
--Name: Galaxy Rawat
--Email: gvpg223@gmail.com
--GitHub: https://github.com/Galaxicitti
--LinkedIn: https://linkedin.com/in/galaxy-rawat
+📧 Email: gvpg223@gmail.com.
+
+🔗 LinkedIn: https://www.linkedin.com/in/galaxy-rawat.
 
 
