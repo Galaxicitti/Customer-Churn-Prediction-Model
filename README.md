@@ -40,8 +40,8 @@ Install the following dependencies:
 ## 🚀 How to Access
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
+  
+       git clone https://github.com/yourusername/customer-churn-prediction.git
 
 ## 🧑‍💻 Author
 Created by Galaxy Rawat.
